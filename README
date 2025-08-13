@@ -1,0 +1,47 @@
+🎁 Sorteio de Amigo Secreto:
+
+Aplicativo para sortear o nome de um ou mais amigos secretos de forma simples e rápida.
+
+🚀 Funcionalidades:
+
+Adicionar participantes à lista.
+
+Impedir nomes duplicados.
+
+Sortear 1 ou mais nomes sem repetição.
+
+Exibir o resultado do sorteio.
+
+Limpar a lista e reiniciar.
+
+🛠️ Tecnologias:
+
+HTML, CSS e JavaScript.
+
+Lógica de sorteio com algoritmo de embaralhamento.
+
+▶️ Como usar:
+
+Digite o nome do participante e clique em Adicionar.
+
+Repita para todos os participantes.
+
+Informe quantos nomes deseja sortear.
+
+Clique em Sortear para ver o resultado.
+
+Use Reiniciar para começar de novo.
+
+📂 Como executar:
+
+# Clone o repositório
+git clone https://github.com/seu-usuario/amigo-secreto.git
+
+# Acesse a pasta
+cd amigo-secreto
+
+# Se usar HTML/CSS/JS
+# Abra o index.html no navegador
+
+📜 Licença
+Projeto desenvolvido para fins de estudo — Challenge Alura.
